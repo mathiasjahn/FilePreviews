@@ -4,8 +4,8 @@
     "license": "GPL-3.0-or-later",
     "description": "Neos CMS integration of filepreviews.io to generate thumbnails",
     "require": {
-        "neos/flow": "~5.3",
-        "neos/media": "~4.3",
+        "neos/flow": "~8.2",
+        "neos/media": "~8.2",
         "guzzlehttp/guzzle": "^7.0",
         "flowpack/jobqueue-common": "^3.0",
         "flowpack/jobqueue-doctrine": "^3.0"
